@@ -1,5 +1,5 @@
 {
-  "name": "adet-be-bsit21",
+  "name": "adet-be-bsit22",
   "type": "module",
   "scripts": {
     "dev": "tsx watch src/index.ts",
@@ -12,7 +12,10 @@
   },
   "devDependencies": {
     "@types/node": "^20.11.17",
+    "dotenv": "^17.3.1",
+    "mysql2": "^3.19.0",
+    "ts-node": "^10.9.2",
     "tsx": "^4.7.1",
-    "typescript": "^5.8.3"
+    "typescript": "^5.9.3"
   }
 }
